@@ -83,7 +83,8 @@ The dataset contains more than **100,000 emergency call records**, each labeled 
 
 The bar chart below compares the accuracy of different classification models.
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/9da7692f-fc05-4d28-bc06-2c576c9f296b" />
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/8fc57edc-f5d6-449c-b3f9-93fdf3d29e6b" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/c2d9e691-b803-46c0-bc4e-abdc049a035a" />
+
 
 
 
