@@ -75,7 +75,7 @@ The dataset contains more than **100,000 emergency call records**, each labeled 
 | Logistic Regression | 98.1 % | 0.981 | 0.981 | 0.981 |
 | **Random Forest** | **99.2 %** | **0.992** | **0.992** | **0.992** |
 
-<img width="450" height="280" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/your_confusion_matrix_image_link" />
+
 
 ---
 
@@ -83,6 +83,8 @@ The dataset contains more than **100,000 emergency call records**, each labeled 
 
 The bar chart below compares the accuracy of different classification models.
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/9da7692f-fc05-4d28-bc06-2c576c9f296b" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/8fc57edc-f5d6-449c-b3f9-93fdf3d29e6b" />
+
 
 
 ## 🧪 Experiments and Analysis
